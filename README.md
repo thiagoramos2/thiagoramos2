@@ -4,7 +4,7 @@
   Desenvolvedor Full Stack Sênior | DevOps & Cloud | IA & Automação | Telecomunicações
 </p>
 
-Profissional de tecnologia com mais de **5 anos de experiência** desenvolvendo aplicações, integrando sistemas, construindo plataformas de comunicação e gerenciando infraestrutura em nuvem.
+Profissional de tecnologia com mais de **10 anos de experiência** desenvolvendo aplicações, integrando sistemas, construindo plataformas de comunicação e gerenciando infraestrutura em nuvem.
 
 Minha experiência combina **desenvolvimento de software, telecomunicações, infraestrutura, automação e negócios digitais**. Trabalho desde a arquitetura e implementação de APIs até a implantação e operação de sistemas em produção.
 
