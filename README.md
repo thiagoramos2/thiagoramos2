@@ -1,8 +1,8 @@
-<h1 align="center">
-  <strong>Thiago Ramos</strong>
-</h1>
+<h1 align="center">Thiago Ramos</h1>
 
-### Desenvolvedor Full Stack Sênior | DevOps & Cloud | IA & Automação | Telecomunicações
+<p align="center">
+  Desenvolvedor Full Stack Sênior | DevOps & Cloud | IA & Automação | Telecomunicações
+</p>
 
 Profissional de tecnologia com mais de **5 anos de experiência** desenvolvendo aplicações, integrando sistemas, construindo plataformas de comunicação e gerenciando infraestrutura em nuvem.
 
