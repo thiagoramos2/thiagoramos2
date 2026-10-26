@@ -185,24 +185,33 @@ Uma das áreas que conecta boa parte da minha experiência é a integração ent
 
 ## 🚀 Projetos em destaque
 
-### SimplesDesk / SimplesChat
+### 💬 SimplesDesk / SimplesChat
 
-Projeto relacionado a atendimento digital, comunicação e integrações.
+Plataforma de atendimento digital e comunicação, com foco em integrações e automação de processos.
 
-**Principais áreas técnicas:**
 - Integrações com WhatsApp.
 - Automação de processos de atendimento.
-- Integrações via APIs.
-- Aplicações containerizadas.
-- Infraestrutura e operação de serviços.
+- Integrações via APIs e Webhooks.
+- Aplicações containerizadas com Docker.
+- Infraestrutura e operação de serviços em produção.
 
-### Deployfy
+### ☁️ Deployfy
 
-Projeto voltado à infraestrutura e automação de deploys.
+Projeto voltado à infraestrutura e automação de deploys, com foco em simplificar a implantação e a operação de aplicações.
 
-**Foco:** simplificar processos relacionados à implantação e operação de aplicações.
+🌐 [deployfy.cloud](https://deployfy.cloud/)
 
-🌐 [deployfy.cloud](https://deployfy.cloud)
+### 💻 Desafit Portfolio
+
+Projeto de portfólio desenvolvido para demonstrar habilidades em desenvolvimento de software.
+
+🔗 [Ver repositório no GitHub](https://github.com/thiagoramos2/desafit-portfolio)
+
+### 🎯 FitGoal
+
+Projeto relacionado ao desenvolvimento de uma aplicação, com foco em demonstrar habilidades técnicas e organização de software.
+
+🔗 [Ver repositório no GitHub](https://github.com/thiagoramos2/fitgoal)
 
 ---
 
