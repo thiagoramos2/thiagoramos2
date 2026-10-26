@@ -210,7 +210,7 @@ Projeto voltado à infraestrutura e automação de deploys.
 
 | Categoria | Tecnologias |
 |---|---|
-| Linguagens | JavaScript, TypeScript, PHP, Python |
+| Linguagens | JavaScript, TypeScript, PHP, Python, Ruby, Go, Shell Script |
 | Front-end | React, Next.js, HTML, CSS, Tailwind CSS |
 | Back-end | Node.js, APIs REST, WebServices, Webhooks |
 | Banco de dados | PostgreSQL, MySQL, Redis, Supabase |
