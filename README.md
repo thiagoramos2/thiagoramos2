@@ -201,17 +201,21 @@ Projeto voltado à infraestrutura e automação de deploys, com foco em simplifi
 
 🌐 [deployfy.cloud](https://deployfy.cloud/)
 
-### 💻 Desafit Portfolio
+### 💪 Desafit
 
-Projeto de portfólio desenvolvido para demonstrar habilidades em desenvolvimento de software.
+Plataforma de desafios fitness com apostas, acompanhamento de resultados, rankings e distribuição de prêmios.
 
-🔗 [Ver repositório no GitHub](https://github.com/thiagoramos2/desafit-portfolio)
+**Tecnologias:** React, Node.js, Express, Supabase e Stripe.
+
+🔗 [GitHub](https://github.com/thiagoramos2/desafit-portfolio)
 
 ### 🎯 FitGoal
 
-Projeto relacionado ao desenvolvimento de uma aplicação, com foco em demonstrar habilidades técnicas e organização de software.
+Projeto de personal trainer digital com proposta de IA para criar planos personalizados de treino e nutrição.
 
-🔗 [Ver repositório no GitHub](https://github.com/thiagoramos2/fitgoal)
+**Tecnologias:** React, TypeScript, Tailwind CSS e Supabase.
+
+🔗 [GitHub](https://github.com/thiagoramos2/fitgoal)
 
 ---
 
