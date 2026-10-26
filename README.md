@@ -246,13 +246,6 @@ Meu foco está em combinar desenvolvimento, infraestrutura e integração para c
 
 ---
 
-## 📫 Contato
-
-- **GitHub:** [@thiagoramos2](https://github.com/thiagoramos2)
-- **Projetos:** [deployfy.cloud](https://deployfy.cloud)
-
----
-
 *Desenvolvimento, infraestrutura, telecomunicações e automação: tecnologia conectando sistemas e negócios.*
 <!--
 **thiagoramos2/thiagoramos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
