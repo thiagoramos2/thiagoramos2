@@ -32,7 +32,7 @@ Atualmente, também exploro aplicações de inteligência artificial, agentes de
 ### Linguagens e tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,php,python,html,css,tailwind" alt="Linguagens e tecnologias de desenvolvimento" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,php,python,ruby,go,bash,html,css,tailwind" alt="Linguagens e tecnologias de desenvolvimento" />
 </p>
 
 ### Back-end e integrações
